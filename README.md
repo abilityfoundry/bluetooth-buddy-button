@@ -36,7 +36,7 @@ Created by [**Ability Foundry**](https://github.com/abilityfoundry), this projec
 - Momentary switch  
 - Basic soldering + 3D printer
 
-Full list with prices and links is in the [Hardware Components](./Buddy%20Button%20Instructions.md#hardware-components) section of the instructions.
+Full list with prices and links is in the [Hardware Components](https://github.com/abilityfoundry/bluetooth-buddy-button/blob/main/Buddy-Button-Instructions.md) section of the instructions.
 
 ---
 
