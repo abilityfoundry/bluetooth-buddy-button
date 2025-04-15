@@ -8,13 +8,27 @@ Created by [**Ability Foundry**](https://github.com/abilityfoundry), this projec
 
 ---
 
+## 📸 3D Renders
+
+Visual previews of the Buddy Button housing and how it fits together:
+
+| Bottom View | Top View | Assembly View |
+|-------------|----------|----------------|
+| <img src="https://github.com/abilityfoundry/bluetooth-buddy-button/blob/main/assets/images/01-bottom.png" height="200"/> | <img src="https://github.com/abilityfoundry/bluetooth-buddy-button/blob/main/assets/images/02-top.png" height="200"/> | <img src="https://github.com/abilityfoundry/bluetooth-buddy-button/blob/main/assets/images/03-assembled.png" height="200"/> |
+
+- **Bottom View**: Shows the internal mounting features for components.
+- **Top View**: Displays the enclosure’s inner surface and guiding features.
+- **Assembly View**: Illustrates how the top and bottom parts align during assembly.
+
+---
+
 ## 🎯 What It Does
 
-- 🖱️ Sends **wireless Bluetooth HID signals** (like keypresses)
-- 🔋 Runs on a **rechargeable LiPo battery**
-- 🌈 Uses a **NeoPixel RGB LED** for visual status
-- 🧩 Built to be **modular and customizable** (shape, color, sensitivity)
-- 🛠️ Easy to assemble using **3D-printed parts** and off-the-shelf components
+- 🖱️ Sends **wireless Bluetooth HID signals** (like keypresses)  
+- 🔋 Runs on a **rechargeable LiPo battery**  
+- 🌈 Uses a **NeoPixel RGB LED** for visual status  
+- 🧩 Built to be **modular and customizable** (shape, color, sensitivity)  
+- 🛠️ Easy to assemble using **3D-printed parts** and off-the-shelf components  
 
 ---
 
@@ -34,7 +48,7 @@ Created by [**Ability Foundry**](https://github.com/abilityfoundry), this projec
 - RGB NeoPixel  
 - Spring (McMaster #9657K289)  
 - Momentary switch  
-- Basic soldering + 3D printer
+- Basic soldering + 3D printer  
 
 Full list with prices and links is in the [Hardware Components](https://github.com/abilityfoundry/bluetooth-buddy-button/blob/main/Buddy-Button-Instructions.md) section of the instructions.
 
@@ -58,5 +72,3 @@ Have ideas for improving the design? Want to help make assistive tech more acces
 **Ability Foundry**  
 > Building technology for a more inclusive future.  
 > https://github.com/abilityfoundry
-
----
