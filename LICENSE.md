@@ -6,7 +6,7 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPLv
 
 The GNU Affero General Public License is a free, copyleft license that ensures that modifications to the software remain open source, even when the software is run as a service over a network.
 
-Full text of the AGPLv3 license can be found in the LICENSE-AGPL.txt file or at: https://www.gnu.org/licenses/agpl-3.0.en.html
+Full text of the AGPLv3 license can be found in [licenses/AGPL.txt](./licenses/AGPL.txt) or at: https://www.gnu.org/licenses/agpl-3.0.en.html
 
 ## Commons Clause
 
@@ -16,7 +16,7 @@ The Commons Clause is an additional restriction used with the AGPLv3 license tha
 
 This means that while the software remains open source, it cannot be sold commercially or offered as a paid service by anyone other than Ability Foundry.
 
-Full text of the Commons Clause can be found in the LICENSE-COMMONS-CLAUSE.txt file or at: https://commonsclause.com/
+Full text of the Commons Clause can be found in [licenses/COMMONS-CLAUSE.txt](./licenses/COMMONS-CLAUSE.txt) or at: https://commonsclause.com/
 
 ## Non-Commercial Use
 
